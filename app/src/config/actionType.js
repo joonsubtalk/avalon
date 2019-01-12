@@ -1,0 +1,1 @@
+// export const SOME_REDUX_ACTION = 'SOME_REDUX_ACTION';

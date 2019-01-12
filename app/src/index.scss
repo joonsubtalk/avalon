@@ -1,5 +1,14 @@
 @import './vendor/normalize.scss';
 @import './config/variables.scss';
 
+// Fonts
+// https://fonts.google.com/
+@import url('https://fonts.googleapis.com/css?family=Belleza');
+
 // Container 
 @import './App.scss';
+
+@import './container/Board/Board.scss';
+
+// Components
+@import './component/QuestMarkers/QuestMarkers.scss';

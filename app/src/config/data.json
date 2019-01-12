@@ -1,0 +1,190 @@
+{
+    "boards": [
+        {
+            "id": 0,
+            "players": 5,
+            "quests": [
+                {
+                    "num": 1,
+                    "partyCount": 2,
+                    "description": ""
+                },
+                {
+                    "num": 2,
+                    "partyCount": 3,
+                    "description": ""
+                },
+                {
+                    "num": 3,
+                    "partyCount": 2,
+                    "description": ""
+                },
+                {
+                    "num": 4,
+                    "partyCount": 3,
+                    "description": ""
+                },
+                {
+                    "num": 5,
+                    "partyCount": 3,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "players": 6,
+            "quests": [
+                {
+                    "num": 1,
+                    "partyCount": 2,
+                    "description": ""
+                },
+                {
+                    "num": 2,
+                    "partyCount": 3,
+                    "description": ""
+                },
+                {
+                    "num": 3,
+                    "partyCount": 4,
+                    "description": ""
+                },
+                {
+                    "num": 4,
+                    "partyCount": 3,
+                    "description": ""
+                },
+                {
+                    "num": 5,
+                    "partyCount": 4,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "players": 7,
+            "quests": [
+                {
+                    "num": 1,
+                    "partyCount": 2,
+                    "description": ""
+                },
+                {
+                    "num": 2,
+                    "partyCount": 3,
+                    "description": ""
+                },
+                {
+                    "num": 3,
+                    "partyCount": 3,
+                    "description": ""
+                },
+                {
+                    "num": 4,
+                    "partyCount": 4,
+                    "description": "requires 2 fails"
+                },
+                {
+                    "num": 5,
+                    "partyCount": 4,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "players": 8,
+            "quests": [
+                {
+                    "num": 1,
+                    "partyCount": 3,
+                    "description": ""
+                },
+                {
+                    "num": 2,
+                    "partyCount": 4,
+                    "description": ""
+                },
+                {
+                    "num": 3,
+                    "partyCount": 4,
+                    "description": ""
+                },
+                {
+                    "num": 4,
+                    "partyCount": 5,
+                    "description": "requires 2 fails"
+                },
+                {
+                    "num": 5,
+                    "partyCount": 5,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "players": 9,
+            "quests": [
+                {
+                    "num": 1,
+                    "partyCount": 3,
+                    "description": ""
+                },
+                {
+                    "num": 2,
+                    "partyCount": 4,
+                    "description": ""
+                },
+                {
+                    "num": 3,
+                    "partyCount": 4,
+                    "description": ""
+                },
+                {
+                    "num": 4,
+                    "partyCount": 5,
+                    "description": "requires 2 fails"
+                },
+                {
+                    "num": 5,
+                    "partyCount": 5,
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "players": 10,
+            "quests": [
+                {
+                    "num": 1,
+                    "partyCount": 3,
+                    "description": ""
+                },
+                {
+                    "num": 2,
+                    "partyCount": 4,
+                    "description": ""
+                },
+                {
+                    "num": 3,
+                    "partyCount": 4,
+                    "description": ""
+                },
+                {
+                    "num": 4,
+                    "partyCount": 5,
+                    "description": "requires 2 fails"
+                },
+                {
+                    "num": 5,
+                    "partyCount": 5,
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
