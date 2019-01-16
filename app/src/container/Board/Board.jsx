@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import QuestMarkers from '../../component/QuestMarkers/QuestMarkers';
+import PlayerCount from '../../component/PlayerCount/PlayerCount';
 
 export default class Board extends Component {
 
@@ -22,6 +23,7 @@ export default class Board extends Component {
 			<div className="o-board__container">
 				<button onClick={this.handleClick}>Flip Board</button>
 				<QuestMarkers />
+				<PlayerCount />
 			</div>
 		</div>
 		);

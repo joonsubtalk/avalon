@@ -1,1 +1,3 @@
 // export const SOME_REDUX_ACTION = 'SOME_REDUX_ACTION';
+
+export const SET_PLAYER_COUNT = 'SET_PLAYER_COUNT';
