@@ -7,8 +7,17 @@
 
 // Container 
 @import './App.scss';
-
+@import './container/Menu/Menu.scss';
 @import './container/Board/Board.scss';
 
 // Components
 @import './component/QuestMarkers/QuestMarkers.scss';
+@import './lib/ProgressMarkers.scss';
+
+body,
+html,
+#root,
+.app {
+    width: 100%;
+    height: 100%;
+}

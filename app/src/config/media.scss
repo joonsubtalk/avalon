@@ -6,12 +6,17 @@
 // @media #{$mobile} {
 // }
 
-$mobile: "(max-width: 767px)";
-$tablet: "(min-width: 768px) and (max-width: 1023px)";
-$laptop: "(min-width: 1024px) and (max-width: 1439px)";
-$desktop: "(min-width: 1440px)";
+// $mobile: "(max-width: 767px)";
+// $tablet: "(min-width: 768px) and (max-width: 1023px)";
+// $laptop: "(min-width: 1024px) and (max-width: 1439px)";
+// $desktop: "(min-width: 1440px)";
 
 $notDesktop: "(max-width: 1023px)";
 $notMobile: "(min-width: 768px)";
 
 $aboveTablet: "(min-width: 1023px)";
+
+// $desktop: "";
+// $tablet: "";
+// $tablet: "";
+$mobile: "(max-width: 767px)";
